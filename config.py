@@ -1,4 +1,4 @@
-# game-guide-automation config
+﻿# game-guide-automation config
 CRAWLER_CONFIG = {
     "lol": {
         "enabled": True,

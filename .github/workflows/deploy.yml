@@ -23,11 +23,10 @@ jobs:
           pip install requests beautifulsoup4 lxml
       - name: Crawl + Build
         run: |
-          cd game-guide-automation
           python main.py --all || python main.py --build
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./game-guide-automation/docs
+          publish_dir: ./docs
           force_orphan: true
