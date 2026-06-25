@@ -1,0 +1,35 @@
+[
+  {
+    "hash": "lol_001",
+    "title": "Top 5 Champions for Climbing Solo Queue This Patch",
+    "content": "## Top 5 Solo Queue Champions\n\nBased on high-ELO win rates and pick rates, these 5 champions will help you climb.\n\n### 1. K'Sante (Top)\n- Win Rate: 51.8%\n- Strong laning phase\n- Great teamfight presence\n\n### 2. Lee Sin (Jungle)\n- Win Rate: 50.5%\n- High skill ceiling\n- Game-changing plays\n\n### Tips\n- Master 2-3 champions max\n- Focus on macro play\n- Watch patch notes",
+    "category": "rank",
+    "game": "lol",
+    "source": "OP.GG",
+    "source_url": "https://op.gg",
+    "created_at": "2026-06-25T12:43:21.964743",
+    "updated_at": "2026-06-25T12:43:21.964743"
+  },
+  {
+    "hash": "lol_002",
+    "title": "Mid Lane Wave Management Guide",
+    "content": "## Wave Management for Mid Lane\n\nLearn how to control minion waves to gain advantages.\n\n### Slow Push\n- Last hit only\n- Builds up a large wave\n- Dive opponent under turret\n\n### Fast Push\n- Clear wave quickly\n- Freeze near your turret\n- Deny enemy CS\n\n### Freeze\n- Keep wave just outside turret\n- Safe farming\n- Easy gank setup",
+    "category": "tech",
+    "game": "lol",
+    "source": "NGA",
+    "source_url": "https://bbs.nga.cn",
+    "created_at": "2026-06-25T12:43:21.964743",
+    "updated_at": "2026-06-25T12:43:21.964743"
+  },
+  {
+    "hash": "lol_003",
+    "title": "Patch 13.x Jungle Changes Analysis",
+    "content": "## Patch 13.x Jungle Changes\n\n### Key Changes\n1. Camp respawn increased by 15s\n2. Jungle pet damage adjusted\n3. New epic monster mechanics\n\n### Impact\n- Farming junglers buffed slightly\n- Gank timing more important\n- Objective control is key\n\n### Recommended Junglers\n- Udyr (farm heavy)\n- Xin Zhao (early ganks)\n- Lee Sin (balanced)",
+    "category": "patch",
+    "game": "lol",
+    "source": "Riot Games",
+    "source_url": "https://lol.qq.com",
+    "created_at": "2026-06-25T12:43:21.964743",
+    "updated_at": "2026-06-25T12:43:21.964743"
+  }
+]
